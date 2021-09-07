@@ -1,5 +1,6 @@
 # React Quiz Challenge
 [![CI/CD](https://github.com/AbdulHadi404/Quiz-React/actions/workflows/CI.js.yml/badge.svg)](https://github.com/AbdulHadi404/Quiz-React/actions/workflows/CI.js.yml)
+
 Can you build a simple quiz interface with React?
 
 ## The Challenge
